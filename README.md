@@ -1,36 +1,35 @@
-# 🤖 AI Rule-Based Chatbot
+# AI Rule-Based Chatbot 🤖
 
-## 📌 Internship Task 1 – Artificial Intelligence
+This project is a simple rule-based chatbot developed using Python.  
+The chatbot interacts with users through predefined rules and responses.
 
-### 📖 Project Description
-This project is a Rule-Based AI Chatbot built using Python.
-It uses pattern matching and basic Natural Language Processing techniques to identify user intent and generate responses.
+## Features
+- Responds to basic greetings
+- Provides predefined answers to user queries
+- Simple GUI built using Tkinter
+- Rule-based pattern matching
 
----
-
-## 🧠 AI Concepts Used
-- Rule-Based AI
-- Pattern Matching
-- Regular Expressions
-- Intent Recognition
-- Basic NLP
-
----
-
-## 💻 Technologies Used
+## Technologies Used
 - Python
-- Git
-- GitHub
-- VS Code
+- Tkinter
+- Regular Expressions
 
----
-
-## ▶️ How to Run
+## How to Run the Project
 
 1. Clone the repository
-2. Navigate to the project folder
-3. Run:
+2. Run the file:
 
-```bash
-python chatbot.py
+```
+python chatbotappROBO.py
+```
 
+## Project Structure
+
+AI-Rule-Based-Chatbot  
+│  
+├── chatbotappROBO.py  
+├── chatbot.py  
+└── README.md  
+
+## Author
+Sahanya Shetty
